@@ -1,0 +1,8 @@
+package com.enzigma_Tasks;
+public class Basic_Script  extends BaseClass{
+	public static void main(String[] args) {
+		preCondition();
+		postCondition();
+	}
+
+}
